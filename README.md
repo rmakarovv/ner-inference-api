@@ -45,6 +45,8 @@ git clone https://github.com/rmakarovv/ner-inference-api.git
 cd ner-inference-api
 ```
 
+Отдельно скачайте файл `model.safetensors` из релиза `Weights` и поместите его в папку `ner_bert.bin`
+
 ### Шаг 2: Установка зависимостей
 
 Установите все необходимые зависимости:
